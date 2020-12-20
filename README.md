@@ -7,3 +7,6 @@ Quick and dirty analysis of the Deepmind staff with data from Linkedin.
 Example: A Bar plot of scientists and engineers :)
 
 ![Bar Plot of Scientists and Engineers](https://raw.githubusercontent.com/skrish13/deepmind-staff-analysis/main/plot.png)
+
+## Updates
+- [12.2020] Collected some details on the AlphaFold team and published [here](https://www.notion.so/DeepMind-Team-AlphaFold-e25cf2a5cab74897909e95e57e321d9a). Check it out if you're interested! :)
